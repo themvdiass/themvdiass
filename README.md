@@ -119,13 +119,6 @@
       height="30"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=fff"
-      alt="typescript"
-      height="30"
-    />
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=fff"
