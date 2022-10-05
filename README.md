@@ -239,6 +239,6 @@
 <p align="center">&nbsp;
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=themvdiass&show_icons=true&theme=dracula&hide_border=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=themvdiass&show_icons=true&theme=dark&hide_border=true&locale=en"
     alt="mv.diass" />
 </p>
