@@ -1,12 +1,12 @@
 <p align="center">
   <img
-    src="https://i.ibb.co/0Q1WRG1/CC-20220615-111945.png"
+    src="https://avatars.githubusercontent.com/u/102382984?v=4"
     height="150"
     width="150"
   />
 </p>
 
-<h1 align="center">Hi, I'm Gabriel Dias</h1>
+<h1 align="center">Hi, I'm Vinicius Dias</h1>
 <h3 align="center">I'm a Full Stack WEB Developer from Brazil 🇧🇷</h3>
 
 <br/>
@@ -16,9 +16,7 @@
 <br/>
 
 - 📚 I’m currently learning **TypeScript, Node.js**
-- 🧑🏻‍💻 All of my projects are
-  available at [https://biewwl.github.io/biewwl/](https://biewwl.github.io/biewwl/)
-- ✉️ How to reach me **biewwl.js@gmail.com**
+- ✉️ How to reach me **themvdiass@gmail.com**
 
 <br />
 
@@ -28,7 +26,7 @@
     <li>🖥️ I started my studies as a programmer in 2022!</li>
     <li>💬 Pronouns: <strong>He</strong>, <strong>Him</strong></li>
     <li>🎶 Musical preference: <strong>Rap</strong>, <strong>Alternative</strong>, <strong>Indie</strong>, <strong>Rock</strong></li>
-    <li>🍂 Music of the moment: <strong>Toxic</strong> <em>by BoyWithUke</em></li>
+    <li>🍂 Music of the moment: <strong>Bones</strong> <em>by Imagine Dragons</em></li>
     <li>❄️ My favorite season is <strong>winter</strong></li>
     <li>⚜️ Hogwarts House: <strong>Gryffindor</strong></li>
     <li>⌨️ Development environment: <strong>Dark</strong>, <strong>playlist</strong>, <strong>headphones</strong> and <strong>coffee</strong></li>
@@ -75,7 +73,7 @@
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-dias-3150b022b/" target="blank">
     <img
       align="center"
-      src="https://img.shields.io/badge/Linkedin-@biewwl-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/Linkedin-@Vinicius_Dias-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white"
       alt="mv.diass"
       height="30"
     />
@@ -85,7 +83,7 @@
   <a href="https://instagram.com/mv.diass" target="blank"
     ><img
       align="center"
-      src="https://img.shields.io/badge/Instagram-@biewwl-E4405F?&style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-@mv.diass-E4405F?&style=for-the-badge&logo=instagram&logoColor=white"
       alt="mv.diass"
       height="30"
     />
@@ -205,20 +203,6 @@
       height="30"
     />
   </a>
-  <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-Mocha-8D6748?&style=for-the-badge&logo=mocha&logoColor=fff"
-      alt="mocha"
-      height="30"
-    />
-  </a>
-  <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-Chai-A30701?&style=for-the-badge&logo=chai&logoColor=fff"
-      alt="chai"
-      height="30"
-    />
-  </a>
   <a href="https://www.npmjs.com/package/express" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Express-000?&style=for-the-badge&logo=express&logoColor=fff"
@@ -247,20 +231,6 @@
       height="30"
     />
   </a>
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-JSON Web Tokens-000000?&style=for-the-badge&logo=jsonwebtokens&logoColor=fff"
-      alt="jsonwebtokens"
-      height="30"
-    />
-  </a>
-  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-Sequelize-52B0E7?&style=for-the-badge&logo=sequelize&logoColor=fff"
-      alt="sequelize"
-      height="30"
-    />
-  </a>
 </p>
 
 <br/>
@@ -269,6 +239,6 @@
 <p align="center">&nbsp;
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=themvdiassl&show_icons=true&theme=dracula&hide_border=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=themvdiass&show_icons=true&theme=dracula&hide_border=true&locale=en"
     alt="mv.diass" />
 </p>
