@@ -83,7 +83,7 @@
   <a href="https://instagram.com/imvinidias" target="blank"
     ><img
       align="center"
-      src="https://img.shields.io/badge/Instagram-@mv.diass-E4405F?&style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-@imvinidias-E4405F?&style=for-the-badge&logo=instagram&logoColor=white"
       alt="mv.diass"
       height="30"
     />
